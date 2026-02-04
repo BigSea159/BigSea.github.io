@@ -1,0 +1,12 @@
+mkdir -p assets/{video,flags,clubs,players}
+
+touch assets/bg_start.jpg \
+      assets/bg_final.jpg \
+      assets/sound.mp3 \
+      assets/video/bg.mp4 \
+      assets/flags/fr.png \
+      assets/flags/br.png \
+      assets/clubs/psg.png \
+      assets/clubs/arsenal.png \
+      assets/players/mbappe.png \
+end
